@@ -17,7 +17,7 @@
 - [Pakiet Adobe](https://www.adobe.com/pl/creativecloud/buy/students.html)
 - [Sketch](https://www.sketch.com/store/edu/)
 - [Trello organizer zadań](https://trello.com/)
-- [Mikro sterownik Arduino](https://www.arduino.cc/github/students)
+- [Mikrosterownik Arduino](https://www.arduino.cc/github/students)
 ## Relatywnie tanie usługi do nauki:
 - [Vps - najtańsza opcja od 4 Euro](https://contabo.com/)
 
