@@ -32,6 +32,7 @@
 - [Just Join IT](https://justjoin.it/)
 - [Skillshot](https://www.skillshot.pl/)
 - [Linkedin](https://www.linkedin.com/)
+- [Bulldogjob](https://bulldogjob.com/#)
 # License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
