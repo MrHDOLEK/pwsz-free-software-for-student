@@ -19,7 +19,8 @@
 - [Trello organizer zadań](https://trello.com/)
 - [Mikrosterownik Arduino](https://www.arduino.cc/github/students)
 ## Relatywnie tanie usługi do nauki:
-- [Vps - najtańsza opcja od 4 Euro](https://contabo.com/)
+- [Vps - najtańsza opcja od 4 Euro/msc](https://contabo.com/)
+- [Mikrus Vps - 65 zł za rok](https://mikr.us/)
 
 ## Biblioteki online, darmowe ksiązki:
 ##### Aby otrzymać dostęp za darmo do tych bibliotek  w ramach studiowania, trzeba pójść do biblioteki na uczelni po kody dostępowe.
