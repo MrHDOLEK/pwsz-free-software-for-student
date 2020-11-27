@@ -12,7 +12,7 @@
 - [BitBucket](https://www.atlassian.com/software/views/bitbucket-academic-license.jsp)
 - [Pakiet programów Autodesk np. AutoCad](https://www.autodesk.com/education/edu-software/overview?sorting=featured&page=2) tylko wybieramy inną uczelnie
 
-## Zniżki na oprogramowanie:
+## Zniżki na oprogramowanie i sprzęt :
 - [Spotify premium](https://support.spotify.com/pl/account_payment_help/premium_for_students/)
 - [Pakiet Adobe](https://www.adobe.com/pl/creativecloud/buy/students.html)
 - [Sketch](https://www.sketch.com/store/edu/)
