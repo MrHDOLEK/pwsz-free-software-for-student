@@ -21,6 +21,7 @@
 ## Relatywnie tanie usługi do nauki:
 - [Vps - najtańsza opcja od 4 Euro/msc](https://contabo.com/)
 - [Mikrus Vps - 65 zł za rok](https://mikr.us/)
+- [Vps - darmowy od Oracla i nie tylko ](https://www.oracle.com/pl/cloud/free/)
 
 ## Biblioteki online, darmowe ksiązki:
 ##### Aby otrzymać dostęp za darmo do tych bibliotek  w ramach studiowania, trzeba pójść do biblioteki na uczelni po kody dostępowe.
